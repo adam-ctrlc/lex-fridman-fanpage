@@ -23,7 +23,7 @@ A modern, dark-themed redesign of [Lex Fridman's website](https://lexfridman.com
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/lex-fridman-redesign.git
+    git clone https://github.com/adam/lex-fridman-redesign.git
     cd lex-fridman-redesign
     ```
 
@@ -46,3 +46,9 @@ This is a **fan-made project** created for educational and design exploration pu
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+## 👤 Author
+
+**Adam**
+*   Website: [Your Website URL]
+*   GitHub: [@adam](https://github.com/adam)
