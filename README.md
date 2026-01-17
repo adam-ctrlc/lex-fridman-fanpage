@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Lex Fridman Website Redesign (Fanmade)
 
-## Getting Started
+A modern, dark-themed redesign of [Lex Fridman's website](https://lexfridman.com/), built with Next.js, Tailwind CSS (v4), and Shadcn UI.
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+*   **Modern Dark UI**: A clean, "soft black" (#121212) aesthetic inspired by Lex's minimalist style.
+*   **Responsive Design**: Fully responsive layout for mobile and desktop.
+*   **Dynamic Data**: Centralized data management for research papers and social links.
+*   **Podcast Integration**: Dedicated podcast page with episode list (visual prototype).
+*   **Contact Page**: Organized contact options with clear guidelines.
+*   **Fanmade Disclaimer**: A polite modal clarifying this is an unofficial project.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+*   **Framework**: [Next.js 16](https://nextjs.org/) (App Router)
+*   **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
+*   **UI Components**: [Shadcn UI](https://ui.shadcn.com/)
+*   **Icons**: [React Icons](https://react-icons.github.io/react-icons/) (Material Design & FontAwesome)
+*   **Font**: [Geist](https://vercel.com/font)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📦 Getting Started
 
-## Learn More
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/yourusername/lex-fridman-redesign.git
+    cd lex-fridman-redesign
+    ```
 
-To learn more about Next.js, take a look at the following resources:
+2.  **Install dependencies:**
+    ```bash
+    pnpm install
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3.  **Run the development server:**
+    ```bash
+    pnpm dev
+    ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+4.  Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Deploy on Vercel
+## 📝 Disclaimer
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This is a **fan-made project** created for educational and design exploration purposes. It is **not** officially affiliated with, endorsed by, or connected to Lex Fridman. All content, trademarks, and logos belong to their respective owners.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
